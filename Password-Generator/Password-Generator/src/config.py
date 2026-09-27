@@ -1,0 +1,4 @@
+APP_NAME = "Secure Password Generator"
+DEFAULT_LENGTH = 16
+MIN_LENGTH = 4
+MAX_LENGTH = 128
