@@ -25,7 +25,7 @@ A professional Python desktop application for generating strong passwords locall
 
 ---
 
-## 🚀 About The Project
+## 🚀 About The Project -
 
 **Password Generator** is a secure and customizable desktop application built with Python.
 
